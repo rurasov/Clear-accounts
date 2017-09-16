@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.284,C:\Users\rurasov\Documents\Embarcadero\Studio\Projects\SS-Web\Clear accounts\ClearAcc.dfm=C:\Users\rurasov\Documents\Embarcadero\Studio\Projects\ClearAcc.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.835,C:\Users\rurasov\Documents\Embarcadero\Studio\Projects\ClearAcc.dfm=C:\Users\rurasov\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.333,=C:\Users\rurasov\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.835,C:\Users\rurasov\Documents\Embarcadero\Studio\Projects\ClearAcc.pas=C:\Users\rurasov\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.284,C:\Users\rurasov\Documents\Embarcadero\Studio\Projects\SS-Web\Clear accounts\ClearAcc.pas=C:\Users\rurasov\Documents\Embarcadero\Studio\Projects\ClearAcc.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.847,C:\Users\rurasov\Documents\Embarcadero\Studio\Projects\SS-Web\Clear accounts\ClearAcc.dproj=C:\Users\rurasov\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.795,=C:\Users\rurasov\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.035,C:\Users\rurasov\Documents\Embarcadero\Studio\Projects\SS-Web\Clear accounts\Main.pas=C:\Users\rurasov\Documents\Embarcadero\Studio\Projects\SS-Web\Clear accounts\ClearAcc.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.750,=C:\Users\rurasov\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.035,C:\Users\rurasov\Documents\Embarcadero\Studio\Projects\SS-Web\Clear accounts\Main.dfm=C:\Users\rurasov\Documents\Embarcadero\Studio\Projects\SS-Web\Clear accounts\ClearAcc.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.319,=C:\Users\rurasov\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+  </Transactions>
+</BorlandProject>
